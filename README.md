@@ -63,16 +63,6 @@ AppMeuCombustivel/
 
 ---
 
-## ▶️ Como executar o projeto
-
-### Pré-requisitos
-
-- [Visual Studio 2022](https://visualstudio.microsoft.com/) com a carga de trabalho **.NET MAUI** instalada
-- .NET 10 SDK
-- Emulador Android configurado **ou** dispositivo físico com depuração USB ativada
-
----
-
 ## 🎓 Contexto acadêmico
 
 Projeto desenvolvido durante o curso de **Desenvolvimento de Software Multiplataforma**, referente a matéria de **Desenvolvimento Web II** na **FATEC Jahu**, com o objetivo de praticar os fundamentos do desenvolvimento mobile com **.NET MAUI**.
